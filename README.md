@@ -9,3 +9,5 @@
 #	Followed by the state of the folder [] // Rarely used
 #	--
 #	The naming of a file should be in lower case letters and folders in uppercase.
+
+# This is an example of an edit
